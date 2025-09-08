@@ -16,19 +16,18 @@ A simple, client-side URL Shortener built with React. This application allows us
 
 ## 🛠️ Installation & Setup
 
-1. **Unzip the project** and open a terminal in the project folder.
 
-2. **Install dependencies**:
+1. **Install dependencies**:
    ```bash
    npm install
    ```
 
-3. **Start the development server**:
+2. **Start the development server**:
    ```bash
    npm start
    ```
 
-4. Open the app in your browser:
+3. Open the app in your browser:
    ```
    http://localhost:3000
    ```
